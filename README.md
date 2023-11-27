@@ -11,7 +11,7 @@ PSIS is a national survey that collects detailed information on enrolments and g
 ### Data Source
 The dataset used in this analysis is obtained from Statistics Canada's Table 37-10-0015-01 on Postsecondary enrolments. The data includes information on enrolments categorized by credential type, age group, registration status, program type, and gender.
 
-- [Statistics Canada Data Source](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710001501)
+- [Statistics Canada Data Source](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3710001101)
 
 ### Data Release
 The dataset was last updated on November 22, 2023.
